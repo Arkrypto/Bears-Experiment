@@ -1,6 +1,7 @@
 # NEUQ-Experiment
 你秦的实验合集
 
+- Algo：我的算法笔记
 - Assembly：汇编程序设计
 - CO：计组实验（Verilog）
 - Compile：编译原理实验
